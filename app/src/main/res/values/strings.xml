@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hanif Fathullah Ujian 4 _Ganjil</string>
+    <string-array name="test">
+        <item>Food</item>
+        <item>Item</item>
+        <item>Shoes</item>
+    </string-array>
+</resources>
